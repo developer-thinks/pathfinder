@@ -1,4 +1,4 @@
 # pathfinding-visualizer
 The Application for finding the shortest path between 2  nodes using various algorithms like DFS, BFS, A* etc
 
-<a href="" > Live Site </a>
+<h2> <a href="https://sammed-sankonatti.github.io/pathfinding-visualizer/" > Live Site </a> </h2>
