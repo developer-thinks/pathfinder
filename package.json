@@ -1,7 +1,7 @@
 {
-  "name": "pathfinding-visualizer",
+  "name": "pathfinder",
   "version": "0.1.0",
-  "homepage": "https://sammed-sankonatti.github.io/pathfinding-visualizer",
+  "homepage": "https://sammed-sankonatti.github.io/pathfinder",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
